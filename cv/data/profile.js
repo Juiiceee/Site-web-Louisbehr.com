@@ -62,6 +62,7 @@ const profileData = {
 	{
 		title: "Hackathon Allfeat 2nd",
 		duration: "14 - 16 Jun 2024",
+		link: "https://github.com/Juiiceee/Sample",
 		desc: `I participated in a <strong>Hackathon</strong> organized by <strong>Allfeat</strong>, held from the 14th to the 16th June 2024.</br>
 		Allfeat is a blockchain dedicated to the <strong>musical industry</strong>.
 		The theme of this Hackathon was the <strong>integration of music</strong> into <strong>blockchain</strong>.
