@@ -62,15 +62,15 @@ const profileData = {
 	{
 		title: "Hackathon Allfeat 2nd",
 		duration: "14 - 16 Jun 2024",
-		desc: `J'ai participé à l'Hackathon organisé par Allfeat, qui s'est tenu du 14 au 16 juin 2024.
-		Allfeat est une blockchain dédiée à l'industrie musicale.
-		Le thème de cet Hackathon était l'intégration de la musique dans la blockchain.
-		Cette blockchain permet de développer en Rust ou en Solidity, car elle est compatible avec l'EVM.
-		J'étais en équipe avec deux développeurs front-end, un développeur back-end, une designeuse UI/UX, et moi-même, développeur blockchain.
-		Notre projet, nommé Sample, vise à permettre aux petits comme aux grands créateurs de contenu d'utiliser les musiques de grands artistes pour leurs créations.
-		Par exemple, un artiste peut mettre sa musique en vente libre avec un prix défini, permettant à un acheteur d'acquérir le droit de l'utiliser dans son contenu.
-		Une fois que l'acheteur a acheté le droit d'utiliser la musique, il peut lier la musique à l'URL de son contenu, obtenant ainsi le droit de l'utiliser.
-		Ce droit d'utilisation est représenté par un NFT à usage unique. Une fois que le NFT est lié à une URL, il ne peut plus être modifié.`,
+		desc: `I participated in a <strong>Hackathon</strong> organized by <strong>Allfeat</strong>, held from the 14th to the 16th June 2024.</br>
+		Allfeat is a blockchain dedicated to the <strong>musical industry</strong>.
+		The theme of this Hackathon was the <strong>integration of music</strong> into <strong>blockchain</strong>.
+		This blockchain allows to development in <strong>Rust</strong> or <strong>Solidity</strong>, because it’s <strong>EVM compatible</strong>.</br>
+		I was in a team with 2 <strong>front-ends</strong> developers, 1 <strong>back-end</strong> developer, 1 <strong>UI/UX</strong> designer and 1 <strong>blockchain</strong> developer (myself).
+		Our <strong>Sample</strong> project is designed to enable <strong>all types</strong> of <strong>content creators</strong> to use <strong>music</strong> of <strong>great artists</strong> for <strong>their creations</strong>.</br>
+		For instance, an <strong>artist</strong> can put his music over-the-counter with a <strong>set price</strong>, allowing a buyer to <strong>acquire</strong> the <strong>rights</strong> to <strong>use its content</strong>.
+		Once the buyer has purchased the right to use said music in its contents, he can <strong>link</strong> it to the <strong>URL</strong> of the content, <strong>getting</strong> the <strong>right to use it</strong>.
+		This right to use is represented in a <strong>single use NFT</strong>, once the  <strong>NFT</strong> is linked to a  <strong>URL</strong>, it <strong>cannot</strong> be <strong>modified</strong>.`,
 	  },
 	{
 		title: "Excel generator to know the value of my shoe collection",
