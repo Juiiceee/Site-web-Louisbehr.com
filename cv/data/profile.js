@@ -12,7 +12,7 @@ const profileData = {
     },
   },
   links: [
-    { 
+    {
       title: "LinkedIn",
       src: "www.linkedin.com/in/louis-behr-011b45208",
       iconClass: "fa-brands fa-linkedin-in",
