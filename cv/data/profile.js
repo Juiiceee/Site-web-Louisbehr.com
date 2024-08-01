@@ -14,17 +14,17 @@ const profileData = {
   links: [
     {
       title: "LinkedIn",
-      src: "https://linkedin.com/in/louis-behr",
+		src: "https://github.com/toukoum",
       iconClass: "fa-brands fa-linkedin-in",
     },
     {
       title: "Github",
-      src: "https://github.com/Juiiceee",
+		src: "https://github.com/toukoum",
       iconClass: "fa-brands fa-github",
     },
 	{
 		title: "Instagram",
-		src: "https://instagram.com/Louisbehr_",
+		src: "https://github.com/toukoum",
 		iconClass: "fa-brands fa-instagram",
 	  },
   ],
