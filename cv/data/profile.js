@@ -83,6 +83,24 @@ const profileData = {
 	],
 	projects: [
 		{
+			title: "Hackathon Vierzon 2024",
+			duration: "04 - 06 Oct 2024",
+			link: "https://github.com/Juiiceee/Trusted-Hackathon-Vierzon-2024",
+			desc: `<strong>Trusted</strong> est une plateforme qui permet de <strong>financer</strong> directement des projets concrets sans passer par une association.
+			Plutôt que de verser des dons à une organisation dont l'<strong>utilisation des fonds reste floue</strong>,
+			les donateurs peuvent voir <strong>précisément</strong> comment leur argent sera <strong>utilisé</strong>.
+			Prenons l'exemple d'un projet de construction d'un <strong>puits en Afrique</strong>.
+			La personne initiant le projet soumet des <strong>devis détaillés</strong> des différentes entreprises qui interviendront.
+			Chaque coût est <strong>transparent</strong>, offrant une vue claire des besoins financiers.
+			Si le projet <strong>séduit un donateur</strong>, il peut choisir de le financer en <strong>crypto</strong>.
+			Une fois que le <strong>montant total</strong> est <strong>atteint</strong>, les <strong>fonds</strong> sont <strong>automatiquement transférés</strong> aux <strong>entreprises concernées</strong>.
+			En <strong>récompense</strong>, le donateur reçoit un <strong>NFT</strong> comme preuve de sa <strong>contribution caritative</strong>,
+			ouvrant la voie à une possible <strong>exonération fiscale</strong>.
+			<strong>Trusted</strong> offre ainsi une nouvelle manière de faire de la charité :
+			<strong>transparente</strong>, <strong>directe</strong> et basée sur la <strong>confiance</strong>,
+			grâce à la technologie blockchain.`,
+		},
+		{
 			title: "Hackathon ETHGlobal Brussels",
 			duration: "12 - 14 Jul 2024",
 			link: "https://github.com/Juiiceee/Whippin_Music-EthGlobal-Bru2024",
