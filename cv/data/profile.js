@@ -60,26 +60,28 @@ const profileData = {
 				`<strong>3D Modeling</strong>, <strong>video montage</strong>, <strong>Dev C and Web</strong>`,
 			],
 		},
+		{
+			organization: "Solana",
+			title: `Solana Summer Fellowship 2024`,
+			date: "22 Jul - 21 sept 2024",
+			details: [`<a>https://github.com/Juiiceee/Fellowship_Solana</a>`,
+				`The <strong>Solana Summer Fellowship</strong> is designed to be <strong>completed</strong> over a period of <strong>2 months</strong>,
+				with a focus on <strong>key concepts</strong> of Solana, ranging from <strong>smart contract development</strong> to <strong>decentralized application</strong> (dApp) <strong>deployment</strong>.
+				We had to complete a <strong>series</strong> of <strong>practical exercises</strong> aimed at <strong>immersing</strong> us in the <strong>world</strong> of the <strong>Solana blockchain</strong>, including:
+				<ul>
+					<li><strong>Key generation</strong> and <strong>SOL airdrop</strong> in <strong>CLI</strong></li>
+					<li><strong>Token creation</strong> (<strong>Mint</strong>, <strong>Burn</strong>, <strong>Transfer</strong>, and <strong>Delegate</strong>)</li>
+					<li><strong>Creation</strong> of a <strong>token vault</strong> with <strong>Anchor</strong></li>
+					<li><strong>Native program</strong> with <strong>withdrawal-limited accounts</strong></li>
+					<li><strong>Debugging</strong> a program in <strong>Rust</strong></li>
+					<li>Solana <strong>Pay payments</strong></li>
+					<li><strong>Mobile app</strong> to <strong>transform photos</strong> into <strong>NFTs</strong></li>
+					<li><strong>Minting cNFTs</strong> for the <strong>Fellows</strong> on the <strong>Mainnet</strong></li>
+				</ul>`]
+			,
+		},
 	],
 	projects: [
-		{
-			title: "Solana Summer Fellowship 2024",
-			duration: "22 Jul - 21 sept 2024",
-			link: "https://github.com/Juiiceee/Fellowship_Solana",
-			desc: `The <strong>Solana Summer Fellowship</strong> is designed to be <strong>completed</strong> over a period of <strong>2 months</strong>,
-		with a focus on <strong>key concepts</strong> of Solana, ranging from <strong>smart contract development</strong> to <strong>decentralized application</strong> (dApp) <strong>deployment</strong>.
-		We had to complete a <strong>series</strong> of <strong>practical exercises</strong> aimed at <strong>immersing</strong> us in the <strong>world</strong> of the <strong>Solana blockchain</strong>, including:
-		<ul>
-			<li><strong>Key generation</strong> and <strong>SOL airdrop</strong> in <strong>CLI</strong></li>
-			<li><strong>Token creation</strong> (<strong>Mint</strong>, <strong>Burn</strong>, <strong>Transfer</strong>, and <strong>Delegate</strong>)</li>
-			<li><strong>Creation</strong> of a <strong>token vault</strong> with <strong>Anchor</strong></li>
-			<li><strong>Native program</strong> with <strong>withdrawal-limited accounts</strong></li>
-			<li><strong>Debugging</strong> a program in <strong>Rust</strong></li>
-			<li>Solana <strong>Pay payments</strong></li>
-			<li><strong>Mobile app</strong> to <strong>transform photos</strong> into <strong>NFTs</strong></li>
-			<li><strong>Minting cNFTs</strong> for the <strong>Fellows</strong> on the <strong>Mainnet</strong></li>
-		</ul>`,
-		},
 		{
 			title: "Hackathon ETHGlobal Brussels",
 			duration: "12 - 14 Jul 2024",
